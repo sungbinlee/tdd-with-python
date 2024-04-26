@@ -54,6 +54,7 @@ AssertionError
 ## 파이썬 기본 라이브러리의 unittest 모듈
 ### 기본 파이썬 테스트 코드의 문제
 - `AssertionError`라는 메시지가 도움이 안됨(단순 Exception)
+
 파이썬에서는 테스트를 위한 별도 솔루션이 이미 존재한다. 기본 라이브러리의 `unittest` 모듈이 그것이다.
 바로 적용해 보자
 ### [functional_tests_with_unittest.py](functional_tests_with_unittest.py)
